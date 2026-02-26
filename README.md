@@ -45,18 +45,18 @@ This project implements a **local, privacy-focused PDF chat system** that allows
 > | General Q&A | Specified Page Number / Chapter |
 > | :--- | :--- | 
 > | ![Q&A with Citation](assets/提問展示.png) | ![Q&A with Specified Page Number/Chapter](assets/指定頁碼章節.png) |
-* (Example: AI accurately answers and marks the cited chapter for a question targeting a specific page number)
+> * (Example: AI accurately answers and marks the cited chapter for a question targeting a specific page number)
 
 > **🌍 Cross-language Intelligent Question Answering**
 >
 > Supports cross-language scenarios of "English document + Chinese question" and "Chinese document + English question," where AI accurately translates semantics and retains technical terms.
 >
 > ![Cross-lingual Q&A](assets/跨語言提問.png)
-* (Example: Asking a question in Chinese on an English PDF, with AI providing a fluent Chinese answer)*
+> * (Example: Asking a question in Chinese on an English PDF, with AI providing a fluent Chinese answer)*
 
 > **📤 Dialogue History Export**
 > 
-Supports exporting complete dialogues as text/Markdown files, including timestamps and associated document information for easy review later.
+> Supports exporting complete dialogues as text/Markdown files, including timestamps and associated document information for easy review later.
 >
 > ![Export Chat](assets/匯出對話文本.png)
 

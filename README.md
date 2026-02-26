@@ -1,4 +1,4 @@
-# Local PDF Chat Application (RAG-Powered)
+# Bilingual Local PDF RAG Q&A Desktop Application
 A professional, bilingual (Chinese/English) desktop application for intelligent PDF document question-answering, built with Retrieval-Augmented Generation (RAG) technology.
 
 ---
@@ -109,7 +109,7 @@ This project implements a **local, privacy-focused PDF chat system** that allows
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/LutherYTT/Local-PDF-Chat-Application-RAG-Powered-.git
+git clone https://github.com/LutherYTT/Bilingual-Local-PDF-RAG-Q-A-Desktop-Application.git
 cd pdf-rag-chat
 ```
 

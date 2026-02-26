@@ -1,0 +1,26 @@
+{
+  "0d490b857580a8fa994c9faeb1c5c33a": {
+    "file_name": "article_219036.pdf",
+    "chunks_path": "data\\cache\\0d490b857580a8fa994c9faeb1c5c33a_chunks.pkl",
+    "vector_store_path": "data\\cache\\0d490b857580a8fa994c9faeb1c5c33a_index",
+    "timestamp": 1772035312.250926
+  },
+  "50bfeb00f7545d6d809130c76659acff": {
+    "file_name": "Plan.pdf",
+    "chunks_path": "data\\cache\\50bfeb00f7545d6d809130c76659acff_chunks.pkl",
+    "vector_store_path": "data\\cache\\50bfeb00f7545d6d809130c76659acff_index",
+    "timestamp": 1772034867.7386389
+  },
+  "886f44cb275deeae717427c4f96c7738": {
+    "file_name": "c_budget_speech_2026-27.pdf",
+    "chunks_path": "data\\cache\\886f44cb275deeae717427c4f96c7738_chunks.pkl",
+    "vector_store_path": "data\\cache\\886f44cb275deeae717427c4f96c7738_index",
+    "timestamp": 1772084375.4046586
+  },
+  "2c0dea10ad3237c4f2b5371cf58d8a5b": {
+    "file_name": "test3.pdf",
+    "chunks_path": "data\\cache\\2c0dea10ad3237c4f2b5371cf58d8a5b_chunks.pkl",
+    "vector_store_path": "data\\cache\\2c0dea10ad3237c4f2b5371cf58d8a5b_index",
+    "timestamp": 1772076980.5137794
+  }
+}

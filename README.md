@@ -15,6 +15,11 @@ This project implements a **local, privacy-focused PDF chat system** that allows
 
 ---
 
+**Screenshot**
+
+
+---
+
 ## 🛠️ Tech Stack
 | Category          | Technologies                                                                 |
 |-------------------|-----------------------------------------------------------------------------|
@@ -62,7 +67,7 @@ This project implements a **local, privacy-focused PDF chat system** that allows
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/LutherYTT/Local-PDF-Chat-Application-RAG-Powered-/
+git clone https://github.com/LutherYTT/Local-PDF-Chat-Application-RAG-Powered-.git
 cd pdf-rag-chat
 ```
 

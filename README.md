@@ -22,7 +22,7 @@ This project implements a **local, privacy-focused PDF chat system** that allows
 >
 > ![Main UI](https://github.com/LutherYTT/Local-PDF-Chat-Application-RAG-Powered-/blob/main/assets/UI%E5%B1%95%E7%A4%BA.png)
 
-> **💡 Intelligent Recommended Questions**
+**💡 Intelligent Recommended Questions**
 >
 > Automatically generates virtual questions based on PDF content, allowing users to quickly ask questions with one click, reducing exploration costs.
 >

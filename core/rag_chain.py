@@ -15,9 +15,13 @@ def detect_query_language(query):
 
 class RAGEngine:
     def __init__(self):
-        self.client = OpenAI(
+        self.base_url = "https://api.deepseek.com"
+    
+    def _get_client(self):
+        """動態取得 OpenAI 用戶端（每次都讀最新的 API Key）"""
+        return OpenAI(
             api_key=os.getenv("DEEPSEEK_API_KEY"),
-            base_url="https://api.deepseek.com"
+            base_url=self.base_url
         )
 
     def build_prompt(self, question, contexts):
@@ -106,7 +110,8 @@ class RAGEngine:
         
         try:
             messages = self.build_prompt(question, contexts)
-            stream = self.client.chat.completions.create(
+            client = self._get_client()
+            stream = client.chat.completions.create(
                 model="deepseek-chat",
                 messages=messages,
                 temperature=0.2,  # 低temperature保證轉述精準性

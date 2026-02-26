@@ -16,18 +16,20 @@ This project implements a **local, privacy-focused PDF chat system** that allows
 ---
 
 ## 🎯 Showcase
-> **Modern Dark-Theme Interface**
-> 
+**Modern Dark-Theme Interface**
+>
 > A professional desktop application built on `customtkinter`, supporting responsive layout and clear visual hierarchy.
 >
 > ![Main UI](https://github.com/LutherYTT/Local-PDF-Chat-Application-RAG-Powered-/blob/main/assets/UI%E5%B1%95%E7%A4%BA.png)
 
-> **💡 Intelligent Recommended Questions**
-Automatically generates virtual questions based on PDF content, allowing users to quickly ask questions with one click, reducing exploration costs.
+**💡 Intelligent Recommended Questions**
+>
+> Automatically generates virtual questions based on PDF content, allowing users to quickly ask questions with one click, reducing exploration costs.
 >
 > ![Recommended Questions](assets/智慧推薦問題.png)
 
-> **Intelligent PDF Processing and Caching**
+**Intelligent PDF Processing and Caching**
+>
 > - Supports layout-aware text extraction and metadata recognition (author/title/chapter);
 > - Intelligent caching based on MD5 file hashes to avoid redundant processing;
 > - Real-time progress tracking and visualization of processing status.
@@ -36,22 +38,25 @@ Automatically generates virtual questions based on PDF content, allowing users t
 > | :--- | :--- |
 > | ![New upload](assets/新上傳.gif) | ![Cache Hit](assets/緩存.gif) |
 
-> **Precise Q&A and Source Citation**
+**Precise Q&A and Source Citation**
+>
 > Supports natural language questions and page/chapter-based targeted searches. All answers are marked with citation sources to ensure traceability.
 >
 > | General Q&A | Specified Page Number / Chapter |
 > | :--- | :--- | 
 > | ![Q&A with Citation](assets/提問展示.png) | ![Q&A with Specified Page Number/Chapter](assets/指定頁碼章節.png) |
-* (Example: AI accurately answers and marks the cited chapter for a question targeting a specific page number)
+> * (Example: AI accurately answers and marks the cited chapter for a question targeting a specific page number)
 
-> **🌍 Cross-language Intelligent Question Answering**
+**🌍 Cross-language Intelligent Question Answering**
+>
 > Supports cross-language scenarios of "English document + Chinese question" and "Chinese document + English question," where AI accurately translates semantics and retains technical terms.
 >
 > ![Cross-lingual Q&A](assets/跨語言提問.png)
-* (Example: Asking a question in Chinese on an English PDF, with AI providing a fluent Chinese answer)*
+> * (Example: Asking a question in Chinese on an English PDF, with AI providing a fluent Chinese answer)*
 
-> **📤 Dialogue History Export**
-Supports exporting complete dialogues as text/Markdown files, including timestamps and associated document information for easy review later.
+**📤 Dialogue History Export**
+> 
+> Supports exporting complete dialogues as text/Markdown files, including timestamps and associated document information for easy review later.
 >
 > ![Export Chat](assets/匯出對話文本.png)
 

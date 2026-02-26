@@ -102,6 +102,15 @@ This project implements a **local, privacy-focused PDF chat system** that allows
 
 ---
 
+## 🔢 System Workflow
+### PDF Ingestion and Indexing Pipeline with Caching
+![Processing Flow After User Uploads Document](assets/用戶上傳文檔後的處理流程.jpeg)
+
+### Bilingual Query Processing and Response Generation Pipeline
+![Processing Flow After User Ask Question](assets/用戶提問的處理流程.jpeg)
+
+---
+
 ## 🚀 Installation & Usage
 ### Prerequisites
 - Python 3.14+

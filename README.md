@@ -1,4 +1,4 @@
-# Local PDF Chat Application (RAG-Powered)
+# Bilingual Local PDF RAG Q&A Desktop Application
 A professional, bilingual (Chinese/English) desktop application for intelligent PDF document question-answering, built with Retrieval-Augmented Generation (RAG) technology.
 
 ---
@@ -104,13 +104,13 @@ This project implements a **local, privacy-focused PDF chat system** that allows
 
 ## 🚀 Installation & Usage
 ### Prerequisites
-- Python 3.9+
+- Python 3.14+
 - A DeepSeek API key (free tier available at [DeepSeek Platform](https://platform.deepseek.com/))
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/LutherYTT/Local-PDF-Chat-Application-RAG-Powered-.git
-cd pdf-rag-chat
+git clone https://github.com/LutherYTT/Bilingual-Local-PDF-RAG-Q-A-Desktop-Application.git
+cd Bilingual-Local-PDF-RAG-Q-A-Desktop-Application
 ```
 
 ### Step 2: Install Dependencies
@@ -139,7 +139,7 @@ python main.py
 
 ## 📁 Project Structure
 ```
-pdf-rag-chat/
+Bilingual-Local-PDF-RAG-Q-A-Desktop-Application/
 ├── main.py                 # Application entry point
 ├── ui/
 │   └── app.py             # CustomTkinter UI implementation

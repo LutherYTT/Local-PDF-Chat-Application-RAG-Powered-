@@ -22,6 +22,14 @@ This project implements a **local, privacy-focused PDF chat system** that allows
 >
 > ![Main UI](https://github.com/LutherYTT/Local-PDF-Chat-Application-RAG-Powered-/blob/main/assets/UI%E5%B1%95%E7%A4%BA.png)
 
+> **Intelligent PDF Processing and Caching**
+> - Supports layout-aware text extraction and metadata recognition (author/title/chapter);
+> - Intelligent caching based on MD5 file hashes to avoid redundant processing;
+> - Real-time progress tracking and visualization of processing status.
+>
+> | Processing Progress | Cache Hit |
+> | :--- | :--- |
+> | ![New upload](assets/新上傳.gif) | ![Cache Hit](assets/緩存.gif) |
 - 
 
 ---

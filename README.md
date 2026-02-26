@@ -15,9 +15,12 @@ This project implements a **local, privacy-focused PDF chat system** that allows
 
 ---
 
-**Showcase**
-User Interface
-[UI](https://github.com/LutherYTT/Local-PDF-Chat-Application-RAG-Powered-/blob/main/assets/UI%E5%B1%95%E7%A4%BA.png)
+** 🎯 Showcase**
+***Modern Dark-Theme Interface***
+This professional desktop application, built on customtkinter, supports responsive layouts and features a clear visual hierarchy.
+![UI](https://github.com/LutherYTT/Local-PDF-Chat-Application-RAG-Powered-/blob/main/assets/UI%E5%B1%95%E7%A4%BA.png)
+
+- 
 
 ---
 
